@@ -1,0 +1,5 @@
+INFO:the addition of values are here
+ERROR:values divided successfully.
+NoneType: None
+WARNING:val 3 should be greater then val4
+ERROR:something is wrong here
